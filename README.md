@@ -49,8 +49,8 @@ Me apasiona diseñar arquitecturas limpias, optimizar rendimiento y liderar equi
 ## 📫 Contacto
 
 - ✉️ Email: **cardona0496@gmail.com**
-- 🌐 LinkedIn: [linkedin.com/in/santiagocardona](https://linkedin.com/in/santiagocardona)  
-- 🐙 GitHub: [github.com/santiagocardona](https://github.com/santiagocardona)
+- 🌐 LinkedIn: [linkedin.com/in/santiago-cardona-desarrollo-web]((https://www.linkedin.com/in/santiago-cardona-desarrollo-web/)  
+- 🐙 GitHub: [github.com/vizardkill](https://github.com/vizardkill)
 
 ---
 
