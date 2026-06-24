@@ -19,14 +19,43 @@ Me apasiona diseñar arquitecturas limpias, optimizar rendimiento y liderar equi
 
 ## 📈 Experiencia Destacada
 
-- **Rocketfy SAS (Tech Lead Developer, 2021–2025):**
-  - Lideré la transformación técnica con arquitecturas limpias y microservicios.
-  - Reduje tiempos de mantenimiento en un **50%** y mejoré la velocidad de carga en un **35%**.
-  - Organicé equipos en squads ágiles para potenciar el desarrollo.
 
-- **Choucair Testing S.A (Analista TI, 2018–2021):**
-  - Implementé aplicaciones web y PWA con React y Node.js.
-  - Optimicé consultas en MongoDB y SQL reduciendo tiempos de respuesta en un **45%**.
+## Ingeniero de Software Sr — nuam (jun. 2025 – actualidad)
+- Desarrollo interfaces dinámicas y responsivas con **React**, mejorando la experiencia de usuario y la consistencia visual del producto.
+- Construyo APIs escalables y seguras con **NestJS** y **Express.js**, optimizando rendimiento y mantenibilidad.
+- Diseño y gestiono bases de datos relacionales en **PostgreSQL** con **Prisma** y consultas avanzadas en **PL/SQL**, reduciendo tiempos de respuesta.
+- Aplico buenas prácticas del **SDLC** para asegurar entregas de software confiables y de alta calidad.
+
+## Senior Golang Developer — VelocityGo (mar. 2025 – may. 2025)
+- Diseñé y optimicé sistemas backend de alto rendimiento en **Golang**, priorizando escalabilidad y eficiencia.
+- Lideré decisiones técnicas clave y mentoreé a desarrolladores junior, elevando el estándar de codificación del equipo.
+- Establecí mejores prácticas de desarrollo que mejoraron la mantenibilidad y redujeron la deuda técnica.
+
+## VP of Engineering — Rocketfy (sept. 2022 – feb. 2025)
+- Definí la visión y estrategia técnica de la compañía, alineando ingeniería con los objetivos de negocio.
+- Lideré la adopción de **arquitecturas limpias y microservicios**, reduciendo tiempos de mantenimiento en un **50%** y mejorando la velocidad de carga en un **35%**.
+- Organicé equipos en **squads ágiles**, aumentando la velocidad de entrega y la autonomía de los desarrolladores.
+- Implementé procesos de **QA y aseguramiento de calidad** que fortalecieron la estabilidad de los productos.
+
+## Tech Lead Developer — Rocketfy (ago. 2021 – sept. 2022)
+- Definí la arquitectura de desarrollo, metodologías y buenas prácticas del equipo técnico.
+- Gestioné y lideré proyectos de desarrollo, entregando productos que aportaron valor directo a la compañía.
+- Impulsé estándares de código y razonamiento analítico que mejoraron la calidad de las entregas.
+
+## Analista de Soluciones — Choucair Testing S.A. (sept. 2018 – ago. 2021)
+- Desarrollé **más de 10 productos digitales** que optimizaron procesos internos en distintas áreas de la compañía.
+- Implementé aplicaciones web y **PWA** con **React** y **Node.js**, mejorando la eficiencia operativa.
+- Optimicé consultas en **MongoDB** y **SQL**, reduciendo tiempos de respuesta en un **45%**.
+- Lideré procesos y proyectos de transformación digital en diferentes sectores internos.
+
+## Auxiliar de Soluciones — Choucair Testing S.A. (mar. 2018 – sept. 2018)
+- Brindé soporte a desarrollos e infraestructura dentro del área de Tecnología e Innovación.
+- Colaboré en la mejora de procesos internos, sentando las bases para mi crecimiento como analista.
+
+## Co-Founder — BooTech Latam (nov. 2019 – ago. 2020)
+- Lideré proyectos de desarrollo con clientes finales, entendiendo sus necesidades de **transformación digital**.
+- Diseñé soluciones tecnológicas para digitalizar y modernizar modelos de negocio.
+
 
 ---
 
