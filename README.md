@@ -19,8 +19,13 @@ Me apasiona diseñar arquitecturas limpias, optimizar rendimiento y liderar equi
 
 ## 📈 Experiencia Destacada
 
+## Desarrollador Senior Fullstack - anai (jun. 2026 - actualidad)
+- Desarrollo de LLMS para la programacion de IA generativa
+- Construyo sistemas RAG y prompting a modelos de IA para la generacion de imagenes y video
+  
 
-## Ingeniero de Software Sr — nuam (jun. 2025 – actualidad)
+
+## Ingeniero de Software Sr — nuam (jun. 2025 – may - 2026)
 - Desarrollo interfaces dinámicas y responsivas con **React**, mejorando la experiencia de usuario y la consistencia visual del producto.
 - Construyo APIs escalables y seguras con **NestJS** y **Express.js**, optimizando rendimiento y mantenibilidad.
 - Diseño y gestiono bases de datos relacionales en **PostgreSQL** con **Prisma** y consultas avanzadas en **PL/SQL**, reduciendo tiempos de respuesta.
